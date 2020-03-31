@@ -16,13 +16,13 @@
 A Node.js API built with Express and all the latest tools and best practices in development!
 - **Node.js** - (https://nodejs.org/en/)
 - **Expo** - (https://expo.io/)
-- **Express** - (https://expressjs.com/pt-br/)
-- **ExpressJs** - (https://expressjs.com/pt-br/)
+- **ExpressJs** - (https://expressjs.com/)
 - **Nodemon** - (https://www.npmjs.com/package/nodemon)
+- **SqLite** - (https://www.sqlite.org/)
 - **Axios** - (https://www.npmjs.com/package/axios)
 - **Cors** - (https://www.npmjs.com/package/cors)
-- **Eslint** - (https://www.npmjs.com/package/eslint)
-- **Jest**(https://www.npmjs.com/package/jest)
+- **Knex** - (https://knexjs.org/)
+- **Jest** - (https://www.npmjs.com/package/jest)
 
 
 ## License
