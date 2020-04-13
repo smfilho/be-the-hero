@@ -13,7 +13,6 @@
 <hr />
 
 ## Features
-A Node.js API built with Express and all the latest tools and best practices in development!
 - **Node.js** - (https://nodejs.org/en/)
 - **Expo** - (https://expo.io/)
 - **ExpressJs** - (https://expressjs.com/)
