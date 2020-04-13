@@ -2,7 +2,7 @@
    <img src="https://github.com/smfilho/be-the-hero/blob/master/frontend/src/assets/logo.svg">
 </p>
 
-<p align="center">An APP that connects people that want to help causes through financial support</p>
+<p align="center">APP that connects NGOs to people that want to help causes through financial support</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
